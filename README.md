@@ -1,3 +1,2 @@
 # FirstRepo
-This is first repo.
-testing
+This is first repo
